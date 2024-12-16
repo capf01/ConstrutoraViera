@@ -73,6 +73,7 @@ section {
 h2 {
   color: #004d40;
   margin-bottom: 15px;
+  margin-top: 50px;
 }
 
 </style>
